@@ -1,7 +1,7 @@
-- Hi, I’m Anachronaut!
-- Sometimes, I like doing things with my computer.
+- Hi, I’m Jake the Anachronaut.
+- Field systems engineer, grass dev
+- I like convincing my computer to do things.
 
-This is where I put projects that I think are interesting enough to share with others.
 
 <!---
 RealBusinessAccount/RealBusinessAccount is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
